@@ -1,6 +1,6 @@
-# ML_SVM_SpamMail
+# ML_LinearSVM_SpamMail
  
-Classify spam mails using SVM
+Classify spam mails using LinearSVM
 
 Dependencies: sklearn, numpy, re, matplotlib, scipy
 
