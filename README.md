@@ -2,7 +2,7 @@
  
 Classify spam mails using SVM
 
-Dependencies: numpy, re, matplotlib, scipy
+Dependencies: sklearn, numpy, re, matplotlib, scipy
 
 Data sets: sample emails (train, test sets), vocablist.txt
 
